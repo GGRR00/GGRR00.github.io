@@ -15,8 +15,9 @@
 }
 #n_1280__1 {
 	position: absolute;
-	width: 1280px;
+	width: 100%;
 	height: 5702px;
+	left: 100;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: 웹 1280 – 1;
@@ -26,23 +27,23 @@
 }
 #Rectangle {
 	position: absolute;
-	width: 1473px;
+	width: 100%;
 	height: 828px;
-	left: -189px;
+	left: -1px;
 	top: 3255px;
 	overflow: visible;
 }
 #n_6 {
 	position: absolute;
-	width: 1471px;
+	width: 100%;
 	height: 797px;
-	left: -59px;
+	left: -73px;
 	top: 0px;
 	overflow: visible;
 }
 #n_5 {
 	position: absolute;
-	width: 1471px;
+	width: 110%;
 	height: 797px;
 	left: 0px;
 	top: 0px;
@@ -53,7 +54,7 @@
 	top: 44px;
 	position: absolute;
 	overflow: visible;
-	width: 594px;
+	width: 100%;
 	white-space: nowrap;
 	text-align: left;
 	font-family: SUIT;
@@ -79,7 +80,7 @@
 #Digital_Design_20129059_YOON_G {
 	transform: matrix(1,0,0,1,1068,389) rotate(90deg);
 	transform-origin: center;
-	left: 0px;
+	left: 480px;
 	top: 0px;
 	position: absolute;
 	overflow: visible;
@@ -117,7 +118,7 @@
 	top: 711px;
 	position: absolute;
 	overflow: visible;
-	width: 237px;
+	width: 100%;
 	white-space: nowrap;
 	line-height: 25px;
 	margin-top: -4.5px;
@@ -130,7 +131,7 @@
 }
 #n_11 {
 	position: absolute;
-	width: 1466px;
+	width: 100%;
 	height: 824px;
 	left: -59px;
 	top: 796px;
@@ -138,15 +139,15 @@
 }
 #n_10 {
 	position: absolute;
-	width: 1466px;
+	width: 100%;
 	height: 824px;
-	left: 0px;
+	left: 59px;
 	top: 0px;
 	overflow: visible;
 }
 #n_15 {
 	position: absolute;
-	width: 1471px;
+	width: 100%;
 	height: 870px;
 	left: -191px;
 	top: 1620px;
@@ -154,25 +155,25 @@
 }
 #n_14 {
 	position: absolute;
-	width: 1471px;
+	width: 110%;
 	height: 870px;
-	left: 0px;
+	left: 190px;
 	top: 0px;
 	overflow: visible;
 }
 #n_21 {
 	position: absolute;
-	width: 1471px;
+	width: 100%;
 	height: 827px;
-	left: -160px;
+	left: -110px;
 	top: 2437px;
 	overflow: visible;
 }
 #n_20 {
 	position: absolute;
-	width: 1471px;
+	width: 100%;
 	height: 827px;
-	left: 0px;
+	left: 110px;
 	top: 0px;
 	overflow: visible;
 }
@@ -180,7 +181,7 @@
 	position: absolute;
 	width: 758.301px;
 	height: 568.727px;
-	left: 65px;
+	left: 130px;
 	top: 1743.637px;
 	overflow: visible;
 }
@@ -196,7 +197,7 @@
 	position: absolute;
 	width: 758.301px;
 	height: 568.727px;
-	left: 460.698px;
+	left: 890px;
 	top: 2565.273px;
 	overflow: visible;
 }
@@ -209,7 +210,7 @@
 	overflow: visible;
 }
 #YOON_GYU_RI {
-	left: 575px;
+	left: 820px;
 	top: 1555px;
 	position: absolute;
 	overflow: visible;
@@ -223,7 +224,7 @@
 	color: rgba(0,0,0,1);
 }
 #YOON_GYU_RI_z {
-	left: 575px;
+	left: 820px;
 	top: 2372px;
 	position: absolute;
 	overflow: visible;
@@ -237,7 +238,7 @@
 	color: rgba(0,0,0,1);
 }
 #YOON_GYU_RI_ {
-	left: 575px;
+	left: 820px;
 	top: 3190px;
 	position: absolute;
 	overflow: visible;
@@ -251,7 +252,7 @@
 	color: rgba(0,0,0,1);
 }
 #YOON_GYU_RI_ba {
-	left: 575px;
+	left: 820px;
 	top: 4018px;
 	position: absolute;
 	overflow: visible;
@@ -268,7 +269,7 @@
 	position: absolute;
 	width: 758.302px;
 	height: 516.654px;
-	left: 65px;
+	left: 130px;
 	top: 3419.673px;
 	overflow: visible;
 }
@@ -281,8 +282,8 @@
 	overflow: visible;
 }
 #OCEAN_POSTER_DESIGN {
-	left: 853px;
-	top: 1986px;
+	left: 1050px;
+	top: 1950px;
 	position: absolute;
 	overflow: visible;
 	width: 295px;
@@ -291,12 +292,12 @@
 	font-family: SUIT;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 25px;
+	font-size: 30px;
 	color: rgba(255,255,255,1);
 }
 #MOVIE_POSTER_REDESIGN {
-	left: 65px;
-	top: 2700px;
+	left: 130px;
+	top: 2760px;
 	position: absolute;
 	overflow: visible;
 	width: 317px;
@@ -305,12 +306,12 @@
 	font-family: SUIT;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 25px;
+	font-size: 30px;
 	color: rgba(0,0,0,1);
 }
 #SMILE_POSTER_DESIGN {
-	left: 852px;
-	top: 3637px;
+	left: 1050px;
+	top: 3625px;
 	position: absolute;
 	overflow: visible;
 	width: 277px;
@@ -319,11 +320,11 @@
 	font-family: SUIT;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 25px;
+	font-size: 30px;
 	color: rgba(0,0,0,1);
 }
 #n__________________________ {
-	left: 930px;
+	left: 1260px;
 	top: 2072px;
 	position: absolute;
 	overflow: visible;
@@ -333,12 +334,12 @@
 	font-family: SUIT;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 16px;
+	font-size: 22px;
 	color: rgba(255,255,255,1);
 }
 #Call_Me_By_Your_Name____ {
-	left: 216px;
-	top: 2783px;
+	left: 400px;
+	top: 2880px;
 	position: absolute;
 	overflow: visible;
 	width: 212px;
@@ -347,11 +348,11 @@
 	font-family: SUIT;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 16px;
+	font-size: 22px;
 	color: rgba(0,0,0,1);
 }
 #How_to_work_better____Fischli_ {
-	left: 913px;
+	left: 1260px;
 	top: 3736px;
 	position: absolute;
 	overflow: visible;
@@ -361,11 +362,11 @@
 	font-family: SUIT;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 16px;
+	font-size: 22px;
 	color: rgba(0,0,0,1);
 }
 #OCEAN_POSTER_DESIGN_ba {
-	left: 445px;
+	left: 690px;
 	top: 1056px;
 	position: absolute;
 	overflow: visible;
@@ -379,11 +380,11 @@
 	color: rgba(0,0,0,1);
 }
 #MOVIE_POSTER_REDESIGN_bb {
-	left: 437px;
+	left: 663px;
 	top: 1143px;
 	position: absolute;
 	overflow: visible;
-	width: 417px;
+	width: 430px;
 	white-space: nowrap;
 	text-align: right;
 	font-family: SUIT;
@@ -393,7 +394,7 @@
 	color: rgba(0,0,0,1);
 }
 #TYPOGRAPHY_POSTER_DESIGN {
-	left: 388px;
+	left: 630px;
 	top: 1230px;
 	position: absolute;
 	overflow: visible;
@@ -407,7 +408,7 @@
 	color: rgba(0,0,0,1);
 }
 #ANIMATION {
-	left: 547px;
+	left: 790px;
 	top: 1317px;
 	position: absolute;
 	overflow: visible;
@@ -422,14 +423,14 @@
 }
 #Rectangle_be {
 	position: absolute;
-	width: 1466px;
+	width: 100%;
 	height: 824px;
-	left: -28px;
+	left: 0px;
 	top: 4083px;
 	overflow: visible;
 }
 #YOON_GYU_RI_bf {
-	left: 575px;
+	left: 820px;
 	top: 4841px;
 	position: absolute;
 	overflow: visible;
@@ -443,8 +444,8 @@
 	color: rgba(0,0,0,1);
 }
 #n__ {
-	left: 239px;
-	top: 4524px;
+	left: 400px;
+	top: 4570px;
 	position: absolute;
 	overflow: visible;
 	width: 162px;
@@ -453,11 +454,11 @@
 	font-family: SUIT;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 16px;
+	font-size: 22px;
 	color: rgba(255,255,255,1);
 }
 #ANIMATION_bh {
-	left: 65px;
+	left: 130px;
 	top: 4449px;
 	position: absolute;
 	overflow: visible;
@@ -467,27 +468,27 @@
 	font-family: SUIT;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 25px;
+	font-size: 30px;
 	color: rgba(255,255,255,1);
 }
 #n_39 {
 	position: absolute;
-	width: 1471px;
+	width: 100%;
 	height: 797px;
-	left: -59px;
+	left: -80px;
 	top: 4906px;
 	overflow: visible;
 }
 #n_5_bj {
 	position: absolute;
-	width: 1471px;
+	width: 110%;
 	height: 797px;
 	left: 0px;
 	top: 0px;
 	overflow: visible;
 }
 #PORTFOLIO_bk {
-	left: 467px;
+	left: 710px;
 	top: 5247px;
 	position: absolute;
 	overflow: visible;
@@ -501,7 +502,7 @@
 	color: rgba(0,0,0,1);
 }
 #In_2022_bl {
-	left: 469px;
+	left: 710px;
 	top: 5307px;
 	position: absolute;
 	overflow: visible;
@@ -515,7 +516,7 @@
 	color: rgba(0,0,0,1);
 }
 #YOON_GYU_RI_bm {
-	left: 575px;
+	left: 820px;
 	top: 5637px;
 	position: absolute;
 	overflow: visible;
@@ -532,7 +533,7 @@
 	position: absolute;
 	width: 758px;
 	height: 423px;
-	left: 461px;
+	left: 870px;
 	top: 4284px;
 	overflow: visible;
 }
