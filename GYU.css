@@ -1,0 +1,542 @@
+.mediaViewInfo {
+	--web-view-name: 웹 1280 – 1;
+	--web-view-id: n_1280__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: n_1280__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#n_1280__1 {
+	position: absolute;
+	width: 100%;
+	height: 5702px;
+	left: 100;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: 웹 1280 – 1;
+	--web-view-id: n_1280__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle {
+	position: absolute;
+	width: 100%;
+	height: 828px;
+	left: -1px;
+	top: 3255px;
+	overflow: visible;
+}
+#n_6 {
+	position: absolute;
+	width: 100%;
+	height: 797px;
+	left: -73px;
+	top: 0px;
+	overflow: visible;
+}
+#n_5 {
+	position: absolute;
+	width: 110%;
+	height: 797px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#PORTFOLIO {
+	left: 62px;
+	top: 44px;
+	position: absolute;
+	overflow: visible;
+	width: 100%;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 103px;
+	color: rgba(0,0,0,1);
+}
+#In_2022 {
+	left: 64px;
+	top: 151px;
+	position: absolute;
+	overflow: visible;
+	width: 269px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 82px;
+	color: rgba(0,0,0,1);
+}
+#Digital_Design_20129059_YOON_G {
+	transform: matrix(1,0,0,1,1068,389) rotate(90deg);
+	transform-origin: center;
+	left: 480px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 273px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#n_1 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_1 {
+	overflow: visible;
+	position: absolute;
+	width: 349px;
+	height: 1px;
+	left: 71.5px;
+	top: 726.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#DAEGU_CATHOLIC_UNIVERSITY {
+	left: 447px;
+	top: 711px;
+	position: absolute;
+	overflow: visible;
+	width: 100%;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#n_11 {
+	position: absolute;
+	width: 100%;
+	height: 824px;
+	left: -59px;
+	top: 796px;
+	overflow: visible;
+}
+#n_10 {
+	position: absolute;
+	width: 100%;
+	height: 824px;
+	left: 59px;
+	top: 0px;
+	overflow: visible;
+}
+#n_15 {
+	position: absolute;
+	width: 100%;
+	height: 870px;
+	left: -191px;
+	top: 1620px;
+	overflow: visible;
+}
+#n_14 {
+	position: absolute;
+	width: 110%;
+	height: 870px;
+	left: 190px;
+	top: 0px;
+	overflow: visible;
+}
+#n_21 {
+	position: absolute;
+	width: 100%;
+	height: 827px;
+	left: -110px;
+	top: 2437px;
+	overflow: visible;
+}
+#n_20 {
+	position: absolute;
+	width: 100%;
+	height: 827px;
+	left: 110px;
+	top: 0px;
+	overflow: visible;
+}
+#n_27 {
+	position: absolute;
+	width: 758.301px;
+	height: 568.727px;
+	left: 130px;
+	top: 1743.637px;
+	overflow: visible;
+}
+#n_26 {
+	position: absolute;
+	width: 758.301px;
+	height: 568.727px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_33 {
+	position: absolute;
+	width: 758.301px;
+	height: 568.727px;
+	left: 890px;
+	top: 2565.273px;
+	overflow: visible;
+}
+#n_32 {
+	position: absolute;
+	width: 758.302px;
+	height: 568.727px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#YOON_GYU_RI {
+	left: 820px;
+	top: 1555px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#YOON_GYU_RI_z {
+	left: 820px;
+	top: 2372px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#YOON_GYU_RI_ {
+	left: 820px;
+	top: 3190px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#YOON_GYU_RI_ba {
+	left: 820px;
+	top: 4018px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#n_38 {
+	position: absolute;
+	width: 758.302px;
+	height: 516.654px;
+	left: 130px;
+	top: 3419.673px;
+	overflow: visible;
+}
+#n_37 {
+	position: absolute;
+	width: 758.302px;
+	height: 516.654px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#OCEAN_POSTER_DESIGN {
+	left: 1050px;
+	top: 1950px;
+	position: absolute;
+	overflow: visible;
+	width: 295px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#MOVIE_POSTER_REDESIGN {
+	left: 130px;
+	top: 2760px;
+	position: absolute;
+	overflow: visible;
+	width: 317px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#SMILE_POSTER_DESIGN {
+	left: 1050px;
+	top: 3625px;
+	position: absolute;
+	overflow: visible;
+	width: 277px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#n__________________________ {
+	left: 1260px;
+	top: 2072px;
+	position: absolute;
+	overflow: visible;
+	width: 286px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+}
+#Call_Me_By_Your_Name____ {
+	left: 400px;
+	top: 2880px;
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(0,0,0,1);
+}
+#How_to_work_better____Fischli_ {
+	left: 1260px;
+	top: 3736px;
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(0,0,0,1);
+}
+#OCEAN_POSTER_DESIGN_ba {
+	left: 690px;
+	top: 1056px;
+	position: absolute;
+	overflow: visible;
+	width: 391px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+#MOVIE_POSTER_REDESIGN_bb {
+	left: 663px;
+	top: 1143px;
+	position: absolute;
+	overflow: visible;
+	width: 430px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+#TYPOGRAPHY_POSTER_DESIGN {
+	left: 630px;
+	top: 1230px;
+	position: absolute;
+	overflow: visible;
+	width: 506px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+#ANIMATION {
+	left: 790px;
+	top: 1317px;
+	position: absolute;
+	overflow: visible;
+	width: 188px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_be {
+	position: absolute;
+	width: 100%;
+	height: 824px;
+	left: 0px;
+	top: 4083px;
+	overflow: visible;
+}
+#YOON_GYU_RI_bf {
+	left: 820px;
+	top: 4841px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#n__ {
+	left: 400px;
+	top: 4570px;
+	position: absolute;
+	overflow: visible;
+	width: 162px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+}
+#ANIMATION_bh {
+	left: 130px;
+	top: 4449px;
+	position: absolute;
+	overflow: visible;
+	width: 144px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#n_39 {
+	position: absolute;
+	width: 100%;
+	height: 797px;
+	left: -80px;
+	top: 4906px;
+	overflow: visible;
+}
+#n_5_bj {
+	position: absolute;
+	width: 110%;
+	height: 797px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#PORTFOLIO_bk {
+	left: 710px;
+	top: 5247px;
+	position: absolute;
+	overflow: visible;
+	width: 347px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#In_2022_bl {
+	left: 710px;
+	top: 5307px;
+	position: absolute;
+	overflow: visible;
+	width: 132px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#YOON_GYU_RI_bm {
+	left: 820px;
+	top: 5637px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SUIT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#n_2022-04-23__15754 {
+	position: absolute;
+	width: 758px;
+	height: 423px;
+	left: 870px;
+	top: 4284px;
+	overflow: visible;
+}
+#n_2022-04-23__15754 > iframe {
+	
+}
