@@ -1,0 +1,148 @@
+.mediaViewInfo {
+	--web-view-name: 웹 1366 – 1;
+	--web-view-id: n_1366__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: n_1366__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.hero{
+}
+nav{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+}
+.logo{
+    width: 400px;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 15px 15px;
+    position: relative;
+}
+nav ul li a{
+    text-decoration: darkgoldenrod;
+    text-transform: uppercase;
+    color: rgb(0, 0, 0)
+}
+#n_1366__1 {
+	position: absolute;
+	width: 1366px;
+	height: 788px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: 웹 1366 – 1;
+	--web-view-id: n_1366__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Profile {
+	left: 905px;
+	bottom: 472px;
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Apple SD Gothic Neo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(0,0,0,1);
+}
+#Ability {
+	left: 905px;
+	bottom: 301px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Apple SD Gothic Neo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(0,0,0,1);
+}
+#Contact {
+	left: 905px;
+	bottom: 177px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Apple SD Gothic Neo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(0,0,0,1);
+}
+#n_20010823____ {
+	left: 905px;
+	bottom: 384px;
+	position: absolute;
+	overflow: visible;
+	width: 328px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Apple SD Gothic Neo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(82,82,82,1);
+}
+#n_2_10_5526_7251_ggrr0823gmail {
+	left: 905px;
+	bottom: 83px;
+	position: absolute;
+	overflow: visible;
+	width: 183px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Apple SD Gothic Neo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(82,82,82,1);
+}
+#n_10 {
+	opacity: 0.611;
+	position: absolute;
+	width: 266.423px;
+	height: 31.073px;
+	left: 911px;
+	bottom: 259.927px;
+	overflow: visible;
+}
+#n_9 {
+	position: absolute;
+	width: 266.423px;
+	height: 31.073px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#IMG_7272 {
+	position: absolute;
+	width: 388px;
+	height: 345px;
+	left: 471px;
+	top: 296px;
+	overflow: visible;
+}

@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Amarante&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR');
+
+
+
+/* FontAwesome 아이콘 스타일 */
+.fa {
+    font-size: 24px;
+    width: 32px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa:hover {
+    color: #ff0000;
+}
+
+
+
+/* 기본 태그 스타일 */
+body {
+    margin: 0; padding: 0;  /* body 태그의 CSS 기본값 수정 */
+    font-family: 'Noto Sans KR', sans-serif;
+}
+h1 {
+    margin: 0; padding: 0;
+}
+a, a:link, a:hover, a:visited
+{
+    color: #000000;
+    text-decoration: none;
+}
+header {
+    position: relative;
+    width: 95%;
+    height: 192px;
+    margin: 0 auto;  /* position이 relative인 요소를 가운데 배치하는 방법 */
+    color: #000000;
+    background-color: #ffffff;
+}
+main {
+    position: relative;
+    width: 95%;
+    margin: 0 auto;
+    background-color: #ffffff;
+}
+footer {
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    height: 48px;
+    color: #000000;
+    background-color: #ffffff;
+}
+
+
+
+/* header 영역 스타일 */
+#logo {
+    position: relative;
+    width: 360px;
+    margin: 0 auto;
+    padding-top: 32px;
+    text-align: center;
+    font-family: 'Amarante', cursive;
+    font-size: 4.0em;
+    font-weight: 700;
+    /* background-color: #ffffff; */
+}
+#mainmenu {
+    position: absolute;
+    width: 400px;
+    height: 24px;
+    left: 50%; transform: translateX(-50%);
+    bottom: 24px;
+    text-align: center;
+    /* background-color: #fff; */
+}
+#mainmenu > ul {
+    display: inline-block;
+    margin: 0; padding: 0;
+    list-style-type: none;
+}
+#mainmenu > ul a:link,
+#mainmenu > ul a:visited
+{
+    text-decoration: none;
+    color: #000000;
+}
+#mainmenu > ul a:hover
+{
+    text-decoration: underline;
+    color: #ff0000;
+}
+#mainmenu > ul li {
+    float: left;
+    padding: 0 24px;
+    /* background-color: #fff;
+    border: solid 1px #000; */
+}
+#mainmenu > ul li:hover {
+    /* background-color: #ffffff; */
+}
+#social {
+    position: absolute;
+    bottom: 24px;
+    right: 8px;
+}
+
+
+
+/* main 영역 스타일 */
+#item-grid {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    width: 100%;
+    margin-bottom: 24px;
+}
+.item-container {
+    position: relative;
+    width: 33.3333333%;   /* 100 / 아이템 수 */
+    padding-top: 33.3333333%;
+} 
+.item {
+    position: absolute;
+    width: calc(100% - 16px);
+    height: calc(100% - 16px);
+    top: 8px;
+    left: 8px;
+    overflow: hidden;
+    /* background-color: blue; */
+}
+
+.item > img {
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #000000;    
+}
+.item:hover .overlay {
+    opacity: 1;
+}  
+.text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+
+
+/* footer 영역 스타일 */
+#copyright {
+    position: absolute;
+    left: 50%; transform: translateX(-50%);
+    font-size: 1.0em;
+    bottom: 16px;
+}
+
+
+
+@media screen and (max-width: 960px) {
+    .item-container {
+        width: 50%;
+        padding-top: 50%;
+    } 
+    #social {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 520px) {
+    .item-container {
+        width: 100%;
+        padding-top: 100%;
+    } 
+}
